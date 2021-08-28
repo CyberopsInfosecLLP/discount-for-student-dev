@@ -282,6 +282,7 @@ Table of Contents
 
 ## Security
 
+  * [Cyberops](https://cyberops.in/vapt) [DISCOUNT] - Vulnerability Assessment and Penetration Testing for your website.
   * [NameCheap](https://namecheap.com/) [DISCOUNT] - One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Shodan](https://www.shodan.io/) [FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
